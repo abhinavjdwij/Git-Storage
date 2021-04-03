@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+header {
+    position: sticky;
+    background-color: black;
+    padding: 2%;
+    margin: none;
+    font-size: 1.5em;
+    text-align: center;
+    color: white;
+}
+
+div {
+    margin: 1%;
+}
