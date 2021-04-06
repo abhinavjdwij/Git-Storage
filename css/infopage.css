@@ -17,7 +17,7 @@ div {
     margin: 1%;
 }
 
-code {
-	max-height: 200px;
-	overflow-y: visible;
+.gist {
+	height:350px;
+	overflow:auto;
 }
